@@ -54,5 +54,8 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:3001/"
+  "proxy": "http://localhost:3001/",
+  "devDependencies": {
+    "@svgr/webpack": "^8.1.0"
+  }
 }
